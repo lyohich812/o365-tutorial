@@ -1,0 +1,67 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: MyString
+  created_date_time: 2019-09-27 18:01:56
+  last_modified_date_time: 2019-09-27 18:01:56
+  change_key: MyString
+  categories: MyString
+  original_start_time_zone: MyString
+  original_end_time_zone: MyString
+  response_status: MyString
+  i_cal_u_id: MyString
+  reminder_minutes_before_start: 1
+  is_reminder_on: false
+  has_attachments: false
+  subject: MyString
+  body: MyString
+  body_preview: MyString
+  importance: MyString
+  sensitivity: MyString
+  start: MyString
+  end: MyString
+  location: MyString
+  is_all_day: false
+  is_cancelled: false
+  is_organizer: false
+  recurrence: MyString
+  response_requested: false
+  series_master_id: MyString
+  show_as: MyString
+  type: 
+  attendees: MyString
+  organizer: MyString
+  web_link: MyString
+
+two:
+  id: MyString
+  created_date_time: 2019-09-27 18:01:56
+  last_modified_date_time: 2019-09-27 18:01:56
+  change_key: MyString
+  categories: MyString
+  original_start_time_zone: MyString
+  original_end_time_zone: MyString
+  response_status: MyString
+  i_cal_u_id: MyString
+  reminder_minutes_before_start: 1
+  is_reminder_on: false
+  has_attachments: false
+  subject: MyString
+  body: MyString
+  body_preview: MyString
+  importance: MyString
+  sensitivity: MyString
+  start: MyString
+  end: MyString
+  location: MyString
+  is_all_day: false
+  is_cancelled: false
+  is_organizer: false
+  recurrence: MyString
+  response_requested: false
+  series_master_id: MyString
+  show_as: MyString
+  type: 
+  attendees: MyString
+  organizer: MyString
+  web_link: MyString
